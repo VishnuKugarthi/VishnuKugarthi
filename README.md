@@ -1,8 +1,8 @@
-# 👋 Hi, I'm **Vishnu Teja Kugarthi**
+## 👋 Hi, I'm **Vishnu Teja Kugarthi**
 
 <div align="center">
 
-### 🤖 AI Technical Lead | Full-Stack Developer
+#### 🤖 AI Technical Lead | Full-Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=VishnuKugarthi&color=orange)
 

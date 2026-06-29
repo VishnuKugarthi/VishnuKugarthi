@@ -86,4 +86,3 @@ SQL • MySQL • PostgreSQL
 - 💼 LinkedIn: [linkedin.com/in/vishnu-teja-kugarthi](https://linkedin.com/in/vishnu-teja-kugarthi)
 - 💻 GitHub: [github.com/VishnuKugarthi](https://github.com/VishnuKugarthi)
 - 📧 Email: vishnutejaap@gmail.com
-- 📞 Phone: +91 9700356514

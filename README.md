@@ -70,8 +70,11 @@ SQL • MySQL • PostgreSQL
 
 <div align="center">
 
-![Vishnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishnuKugarthi&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKugarthi&layout=compact&theme=dark&hide_border=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VishnuKugarthi&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/VishnuKugarthi)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuKugarthi&layout=compact&theme=dark&hide_border=true)](https://github.com/VishnuKugarthi)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VishnuKugarthi&theme=dark&hide_border=true)](https://github.com/VishnuKugarthi)
 
 </div>
 

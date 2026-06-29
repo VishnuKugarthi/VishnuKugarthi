@@ -45,10 +45,7 @@ React.js • Node.js • JavaScript • Python • FastAPI • Microservices •
 LangGraph • LangChain • RAG • Vector Databases • LangSmith • Pydantic v2 • Ragas • Guardrails • PII Masking • Prompt Injection Defense
 
 **🛠️ Tools & Infrastructure**
-Git • CI/CD • GCP • IBM Cloud • High-Volume Data Pipelines • Docker
-
-**🗄️ Databases**
-SQL • MySQL • PostgreSQL
+Git • CI/CD • GCP • IBM Cloud • Firebase • Supabase
 
 ---
 

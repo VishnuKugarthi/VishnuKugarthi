@@ -55,5 +55,3 @@ Senior Full-Stack Engineer and AI Integration Specialist with 7+ years of experi
 - GitHub: [github.com/VishnuKugarthi](https://github.com/VishnuKugarthi)
 - Email: vishnutejaap@gmail.com
 
-## Profile note
-This profile highlights full-stack engineering, AI integration, and enterprise product delivery for international opportunities.

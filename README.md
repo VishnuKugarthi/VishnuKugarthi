@@ -53,5 +53,6 @@ Senior Full-Stack Engineer and AI Integration Specialist with 7+ years of experi
 - Portfolio: [vitk.in](https://vitk.in)
 - LinkedIn: [linkedin.com/in/vishnu-teja-kugarthi](https://linkedin.com/in/vishnu-teja-kugarthi)
 - GitHub: [github.com/VishnuKugarthi](https://github.com/VishnuKugarthi)
+- Medium: [medium.com/@vishnutejaap](https://medium.com/@vishnutejaap)
 - Email: vishnutejaap@gmail.com
 
